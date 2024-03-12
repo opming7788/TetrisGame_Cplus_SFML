@@ -1,0 +1,11 @@
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\3D_model_engine.vcxproj.CopyComplete
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\3D_model_engine.exe
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\sfml-graphics-d-2.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\sfml-window-d-2.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\sfml-system-d-2.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\freetyped.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\zlibd1.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\bz2d.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\libpng16d.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\brotlidec.dll
+C:\Users\opming\source\repos\3D_model_engine\x64\Debug\brotlicommon.dll
